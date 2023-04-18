@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.item-container {
+  background-color: #f8f8ff;
+  width: 100px;
+  height: 200px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.image-edit {
+  width: 20px;
+  height: 20px;
+}
+.star-image {
+  width: 10px;
+  height: 10px;
+}
+
+.sub-item-container {
+  display: flex;
+  justify-content: center;
+}
